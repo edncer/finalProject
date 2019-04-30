@@ -2,7 +2,7 @@
 	Istanbul Travel Guide
 
 ## Purpose
-	Fina Project
+	Final Project
 
 ## Creative Brief
 	This website is designed to offer tourists to experience Istanbul with a local's point of view. Rather than the famous historic and touristic districts, our intention is to provide information about ongoing art events. 
