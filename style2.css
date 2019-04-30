@@ -1,0 +1,73 @@
+h1{float: left;
+      width: 100%;
+      font-size: 80px;
+      box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      font-weight: 100;
+      margin: 0;
+      font-family: Reprise Title Std;
+      letter-spacing: -1px;
+      text-transform: capitalize;
+      text-align: left;
+    }
+
+.menu ul{display: grid;
+	grid-template-columns: repeat(5, 1fr);
+	list-style-type: none;
+	}
+
+li{	margin-right: 10px;
+	text-align: center;
+	font-size: 24px;
+	padding-top: 100px;}
+
+.menu a{color: #CE7B0E;
+text-decoration: none;
+text-transform:uppercase;
+font-family: Reprise Title Std;
+margin-right: 30px;
+margin-bottom: 20px;
+
+}
+
+
+h3{  font-family: Reprise Title Std;
+      text-transform: capitalize;
+      text-align: center;
+      font-size: 28px;
+      }
+h4{   font-family: Andale Mono;
+      font-size:14px;
+      color:#CE7B0E;
+      text-align: center;}
+
+p {width:100%;
+      font-size:17px;
+      color: black;
+      font-family:"Andale Mono";
+      text-align: center;}
+
+
+
+a {text-decoration: none;
+      color: black;
+      font-size: 24px;
+      font-family:"Andale Mono";
+      font-size: 14px;
+      text-align: center;
+      display: block;
+      width: 113px;
+      margin: auto;
+}
+
+a:hover{text-decoration: underline;
+      text-align: center;}
+
+h5{font-family: Andale Mono;
+      font-size:14px;
+      color:#999;
+      text-align: center;}
+
+img{  display: block;
+      margin: auto;}
